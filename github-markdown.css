@@ -1,3 +1,4 @@
+
 .markdown-body .octicon {
   display: inline-block;
   fill: currentColor;
@@ -60,7 +61,7 @@
   -webkit-text-size-adjust: 100%;
   line-height: 1.5;
   color: #24292e;
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+  font-family: Nunito;
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
@@ -100,7 +101,7 @@
 .markdown-body code,
 .markdown-body kbd,
 .markdown-body pre {
-  font-family: monospace,monospace;
+  font-family: Nunito;
   font-size: 1em;
 }
 
@@ -129,7 +130,7 @@
 }
 
 .markdown-body input {
-  font-family: inherit;
+  font-family: Nunito;
   font-size: inherit;
   line-height: inherit;
 }
@@ -276,7 +277,7 @@
 
 .markdown-body code,
 .markdown-body pre {
-  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  font-family: Nunito;
   font-size: 12px;
 }
 
@@ -307,7 +308,7 @@
 }
 
 .markdown-body .border-bottom {
-  border-bottom: 1px solid #e1e4e8!important;
+  border-bottom: 0px solid #e1e4e8!important;
 }
 
 .markdown-body .rounded-1 {
@@ -681,7 +682,7 @@
 .markdown-body h1,
 .markdown-body h2 {
   padding-bottom: .3em;
-  border-bottom: 1px solid #eaecef;
+  border-bottom: 0px solid #eaecef;
 }
 
 .markdown-body h2 {
