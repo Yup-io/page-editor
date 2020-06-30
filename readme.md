@@ -1,2 +1,2 @@
-# Site Editor
+# Page Editor
 By Yup
