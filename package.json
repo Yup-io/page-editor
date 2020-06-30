@@ -1,0 +1,31 @@
+{
+	"name": "page-editor",
+	"version": "4.0.0",
+	"description": "The minimal amount of CSS to replicate the GitHub Markdown style",
+	"license": "MIT",
+	"funding": "https://github.com/sponsors/sindresorhus",
+	"author": {
+		"name": "Nir Kabessa",
+		"email": "community@yup.io",
+		"url": "https://yup.io"
+	},
+	"main": "github-markdown.css",
+	"scripts": {
+		"make": "github-markdown-css > github-markdown.css"
+	},
+	"files": [
+		"github-markdown.css"
+	],
+	"keywords": [
+		"browser",
+		"github",
+		"markdown",
+		"md",
+		"css",
+		"style",
+		"stylesheet"
+	],
+	"devDependencies": {
+		"generate-github-markdown-css": "^4.0.0"
+	}
+}
