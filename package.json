@@ -1,9 +1,9 @@
 {
 	"name": "page-editor",
 	"version": "4.0.0",
-	"description": "The minimal amount of CSS to replicate the GitHub Markdown style",
+	"description": "Quickly edit the text of any webpage or site. No code, no download, no sign up.",
 	"license": "MIT",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"funding": "https://github.com/sponsors/yup-io",
 	"author": {
 		"name": "Nir Kabessa",
 		"email": "community@yup.io",
